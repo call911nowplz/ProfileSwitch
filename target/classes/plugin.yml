@@ -1,0 +1,5 @@
+name: ProfileSwitch
+version: 1.0
+main: arcane.profileswitch.plugin.ProfileServerRedirect
+api-version: 1.21
+depend: [MMOProfiles]

@@ -1,0 +1,7 @@
+profile-prefix: "Profile N"
+server-on-profile-create: "lobby"
+server-on-profile-select: "RPG"
+kick-message: "Server is full!"
+profile-create-delay: 40
+profile-select-delay: 100
+kick-delay: 100
