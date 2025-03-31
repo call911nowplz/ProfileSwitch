@@ -1,4 +1,4 @@
-# ProfileServerRedirect
+# ProfileSwitch
 
 This plugin handles automatic server redirection for players based on profile selection using MMOProfiles.
 
