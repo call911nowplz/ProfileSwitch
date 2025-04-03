@@ -31,4 +31,4 @@ kick-delay: 100                        # Delay (ticks) before kicking player
 - `profileswitch.bypass`: Skips redirection and allows normal login/movement
 
 
-
+For support or questions, Join my [Discord](https://discord.gg/JEqREs76yh) and open a ticket
